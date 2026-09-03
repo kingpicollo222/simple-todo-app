@@ -1,0 +1,8 @@
+{
+  "name": "simple-todo-app",
+  "version": "1.0.0",
+  "description": "A simple todo application",
+  "type": "module",
+  "scripts": { "test": "node --test tests/" },
+  "license": "MIT"
+}
